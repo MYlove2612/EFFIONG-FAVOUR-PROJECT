@@ -1,12 +1,17 @@
 # EFFIONG-FAVOUR-PROJECT
 
 ### Project Title: Global Cyber Security Threats Analysis
+---
+
 
 ### Project Overview
 This is a curated analysis that tracted global cyber security threats, attack trends, and the various industries affected. Updated regularly with insights and data from public sources.
 
+
+
 ### Data Sources
 The primary source of data used here is global cyber security threats 2015-2024.Csv. The file was downloaded from an open source called Kaggle.
+
 
 ### Tools Used
 - Microsoft Excel for Data cleaning and Analysis
